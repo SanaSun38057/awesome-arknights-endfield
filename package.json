@@ -1,6 +1,6 @@
 {
   "name": "awesome-arknights-endfield",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A curated list of awesome things related to Arknights: Endfield. | \u4e00\u4e2a\u6709\u5173\u300a\u660e\u65e5\u65b9\u821f\uff1a\u7ec8\u672b\u5730\u300b\u7684 Awesome List\u3002",
   "main": "src/index.ts",
   "scripts": {
